@@ -5,7 +5,14 @@
   🎓 OUSL & KIU & IDM | 📍 Sri Lanka | ✨ Lifelong Learner
 </p>
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Software%20Engineer-%E2%9C%94-blue" alt="Software Engineer"/>
+  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-red" alt="Cybersecurity"/>
+  <img src="https://img.shields.io/badge/Network%20Explorer-%F0%9F%93%88-yellow" alt="Network Explorer"/>
+</p>
+
 ---
+
 
 ### 📌 About Me
 
@@ -35,10 +42,9 @@ I'm a **goal-oriented, quick-learning team player** with strong leadership quali
 ### 🏆 Awards & Leadership
 
 - 👑 **President** – FOCSEC (Faculty of Computer Science & Engineering Student Circle) – KIU  
-- 💼 **Treasurer** – Young Inventors' Club – KIU  
-- 🏸 U19 All Island Badminton Team – Runner-up (2018)  
-- 🏆 Darrel House Sports & Badminton Captain – Richmond College  
-- 🥇 U20 Champion – Southern Province School Games (2018)
+- 💼 **Treasurer** – Young Inventors' Club – KIU
+- 🏅 **Colours Award Winner** – Richmond College  
+- 🏆 **Darrel House Sports & Badminton Captain** – Richmond College  
 
 
 ---
@@ -60,6 +66,9 @@ I'm a **goal-oriented, quick-learning team player** with strong leadership quali
 </p>
 
 ---
+### 🧠 Languages Used in My Projects
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasarangad&layout=compact&theme=radical&langs_count=8)](https://github.com/hasarangad)
 
 ### 🧠 Projects
 
@@ -82,10 +91,13 @@ I'm a **goal-oriented, quick-learning team player** with strong leadership quali
 
 ### 🌐 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](http://www.linkedin.com/in/keshan-hasaranga-dias-gunawardena-5bb195220)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/keshan-hasaranga-dias-gunawardhana-5bb195220/)
+[![YouTube](https://img.shields.io/badge/-YouTube-FF0000?style=flat-square&logo=youtube&logoColor=white)](https://www.youtube.com/@HasaDevSecLK)
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=flat-square&logo=twitter&logoColor=white)](https://twitter.com/HasarangaDias?s=20)
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=flat-square&logo=facebook&logoColor=white)](https://www.facebook.com/arrow.khdg)
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/k_h_d_g_00/)
+
+
 
 ---
 
