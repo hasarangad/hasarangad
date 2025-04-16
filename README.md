@@ -21,7 +21,6 @@ I'm a **goal-oriented, quick-learning team player** with strong leadership quali
 
 - 🎓 Advanced Level (Physical Science) – Richmond College Galle  
 - 🎓 Diploma in Office Applications and Web – IDM  
-- 🎖️ Completed 5+ Cybersecurity Rooms on TryHackMe
 
 ---
 
