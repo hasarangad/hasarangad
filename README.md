@@ -5,11 +5,6 @@
   🎓 OUSL & KIU & IDM | 📍 Sri Lanka | ✨ Lifelong Learner
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Software%20Engineer-%E2%9C%94-blue" alt="Software Engineer"/>
-  <img src="https://img.shields.io/badge/Cybersecurity-%F0%9F%94%90-red" alt="Cybersecurity"/>
-  <img src="https://img.shields.io/badge/Network%20Explorer-%F0%9F%93%88-yellow" alt="Network Explorer"/>
-</p>
 
 ---
 
