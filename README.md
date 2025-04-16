@@ -29,6 +29,15 @@ I'm a **goal-oriented, quick-learning team player** with strong leadership quali
 
 ---
 
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=hasarangad&show_icons=true&theme=radical" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasarangad&theme=radical" width="48%" />
+</p>
+
+---
+
 ### 🧰 Tech Stack
 <h4>🧠 Programming Languages</h4>
 <p align="left">
@@ -93,14 +102,6 @@ I'm a **goal-oriented, quick-learning team player** with strong leadership quali
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=hasarangad&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=hasarangad&theme=radical" width="48%" />
-</p>
-
----
 ### 🧠 Languages Used in My Projects
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hasarangad&layout=compact&theme=radical&langs_count=8)](https://github.com/hasarangad)
